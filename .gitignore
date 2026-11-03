@@ -1,0 +1,17 @@
+# Flutter build output and generated files
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+
+# IDE and platform-local configuration
+.idea/
+*.iml
+android/local.properties
+
+# Local SDK installed for this workspace; do not publish the SDK archive/binaries.
+/sdk/
+/Microsoft/
+/.firebase/
+/firebase-debug.log
